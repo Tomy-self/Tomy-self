@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=4AB9F8&height=100&section=header&text=welcome&fontSize=50&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=1A81BB&height=100&section=header&text=welcome&fontSize=50&fontColor=fff)
 <br>
 <br>
 🙌 Hi there! I'm Sejin Yun from <b>Republic of Korea</b><br>
