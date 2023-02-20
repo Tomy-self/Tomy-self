@@ -2,6 +2,6 @@
 
 <a href="http://instagram.com/ssjjjnn._.0"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://play.google.com/store/apps/dev?id=6863442776728043981"/><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
-🙌 Hi there! I'm Sejin Yun from <b>Republic of Korea</b>
-🎓 I am studying in Collage <b>Hongik University</b>
-🔆 I'll get it <b>well</b> done
+🙌 Hi there! I'm Sejin Yun from <b>Republic of Korea</b><br>
+🎓 I am studying in Collage <b>Hongik University</b><br>
+🔆 I'll get it <b>well</b> done<br>
