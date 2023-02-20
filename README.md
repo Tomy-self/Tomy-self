@@ -4,4 +4,8 @@
 
 🙌 Hi there! I'm Sejin Yun from <b>Republic of Korea</b><br>
 🎓 I am studying in Collage <b>Hongik University</b><br>
-🔆 I'll get it <b>well</b> done<br>
+🔆 I'll get it <b>well done</b>
+<br>
+<br>
+#My Skills <br>
+
