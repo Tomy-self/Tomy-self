@@ -7,7 +7,7 @@
 <br>
 <hr>
 <h3>📱My SNS</h3>
-<a href="http://instagram.com/official__to_myself"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://play.google.com/store/apps/dev?id=6863442776728043981"/><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="http://instagram.com/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://play.google.com/store/apps/dev?id=6863442776728043981"/><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <br>
 <hr>
 <h3>👌My Skills </h3>
